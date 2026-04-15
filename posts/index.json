@@ -1,0 +1,8 @@
+{
+  "threads": [
+    { "id": "blue_gem", "file": "blue_gem.json" },
+    { "id": "gold_vase", "file": "gold_vase.json" },
+    { "id": "gold_trophy", "file": "gold_trophy.json" },
+    { "id": "red_gem", "file": "red_gem.json" }
+  ]
+}
